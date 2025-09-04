@@ -1,5 +1,3 @@
-version: 0.1
-
 schemaVersion: "1.2"
 endpoints:
   - name: rest-api-be2
