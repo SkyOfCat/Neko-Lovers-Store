@@ -9,3 +9,8 @@ endpoints:
     networkVisibilities:
       - Project
       - Public
+#git add . - Agrega todos los archivos modificados al área de staging
+
+#git commit -m "mensaje" - Crea un commit con los cambios
+
+#git push - Sube los commits al repositorio remoto
